@@ -2,8 +2,8 @@
 
 **I'm a PhD in Music Technology, tech enthousiast and creative coder based in Trieste, Italy.**
 
-- 🔭 I’m currently teaching [Game Audio](https://www.orchestradifiati.it/scuoladimusica/ts/?go=Produzione%20musicale%20con%20Sound%20Designer) @ Scuola di Musica Civica Orchestra di Fiati di Trieste.
-- 🌱 I’m currently learning SwiftUI and German.
+- 🔭 I’m currently a researcher in Otorhinolaryngology and Audiology @ the Institute for Maternal and Child Health IRCCS “[Burlo Garofolo](https://www.burlo.trieste.it)” of Treste, Italy.
+- 🌱 I’m currently focussing on my Python skills.
 - 👯 I'm supervising Will Wilson and Danilo Randazzo in their PhD journeys.
 
 For more information, see my [personal website](https://www.niccologranieri.com).
